@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="text"></input>
+    <button onclick="search()">search</button>
+    <div id='#result1'>종목이름을</div>
+    <div id='#result2'>입력하세요</div>
+</body>
+<script>
+    function search() {
+const keyword = document.querySelector('input').value
+
+// WARNING: For GET requests, body is set to null by browsers.
+var data = "";
+var xhr = new XMLHttpRequest();
+xhr.withCredentials = false;
+
+xhr.addEventListener("readystatechange", function() {
+  if(this.readyState === 4) {
+    var name = JSON.parse(this.responseText).hits.hits[0]._source.company
+    var code = JSON.parse(this.responseText).hits.hits[0]._source.code
+    console.log(code);
+    const div1 = document.getElementById('#result1'); 
+    const div2 = document.getElementById('#result2'); 
+    div1.innerText = "종목이름 : " + name
+    div2.innerText = "종목코드 : " + code
+
+  }
+});
+
+xhr.open("GET", "https://localhost:9200/stock/_search?q=company:"+keyword);
+xhr.setRequestHeader("Authorization", "Basic ZWxhc3RpYzoyNDE5MDA=");
+xhr.send(data);       
+document.querySelector('input').value = ''
+    }
+
+
+</script>
+
+</html>
