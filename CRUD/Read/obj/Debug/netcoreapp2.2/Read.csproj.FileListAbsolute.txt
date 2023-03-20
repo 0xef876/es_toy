@@ -1,0 +1,11 @@
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/obj/Debug/netcoreapp2.2/Read.csprojAssemblyReference.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/obj/Debug/netcoreapp2.2/Read.csproj.CoreCompileInputs.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/obj/Debug/netcoreapp2.2/Read.AssemblyInfoInputs.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/obj/Debug/netcoreapp2.2/Read.AssemblyInfo.cs
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/bin/Debug/netcoreapp2.2/Read.deps.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/bin/Debug/netcoreapp2.2/Read.runtimeconfig.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/bin/Debug/netcoreapp2.2/Read.runtimeconfig.dev.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/bin/Debug/netcoreapp2.2/Read.dll
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/bin/Debug/netcoreapp2.2/Read.pdb
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/obj/Debug/netcoreapp2.2/Read.dll
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Read/obj/Debug/netcoreapp2.2/Read.pdb
