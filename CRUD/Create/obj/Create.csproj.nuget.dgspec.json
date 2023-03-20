@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kitty/Desktop/ICT/pratice/es_toy/Create/Create.csproj": {}
+    "/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Create/Create.csproj": {}
   },
   "projects": {
-    "/Users/kitty/Desktop/ICT/pratice/es_toy/Create/Create.csproj": {
+    "/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Create/Create.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kitty/Desktop/ICT/pratice/es_toy/Create/Create.csproj",
+        "projectUniqueName": "/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Create/Create.csproj",
         "projectName": "Create",
-        "projectPath": "/Users/kitty/Desktop/ICT/pratice/es_toy/Create/Create.csproj",
+        "projectPath": "/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Create/Create.csproj",
         "packagesPath": "/Users/kitty/.nuget/packages/",
-        "outputPath": "/Users/kitty/Desktop/ICT/pratice/es_toy/Create/obj/",
+        "outputPath": "/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Create/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Nest": {
+              "target": "Package",
+              "version": "[7.17.5, )"
             }
           },
           "imports": [
