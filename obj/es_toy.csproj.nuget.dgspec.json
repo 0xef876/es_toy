@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kitty/Desktop/ICT/pratice/es_toy/es_toy.csproj": {}
+  },
+  "projects": {
+    "/Users/kitty/Desktop/ICT/pratice/es_toy/es_toy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kitty/Desktop/ICT/pratice/es_toy/es_toy.csproj",
+        "projectName": "es_toy",
+        "projectPath": "/Users/kitty/Desktop/ICT/pratice/es_toy/es_toy.csproj",
+        "packagesPath": "/Users/kitty/.nuget/packages/",
+        "outputPath": "/Users/kitty/Desktop/ICT/pratice/es_toy/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kitty/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
