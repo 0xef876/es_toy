@@ -1,0 +1,11 @@
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/obj/Debug/netcoreapp2.2/Delete.csprojAssemblyReference.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/obj/Debug/netcoreapp2.2/Delete.csproj.CoreCompileInputs.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/obj/Debug/netcoreapp2.2/Delete.AssemblyInfoInputs.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/obj/Debug/netcoreapp2.2/Delete.AssemblyInfo.cs
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/bin/Debug/netcoreapp2.2/Delete.deps.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/bin/Debug/netcoreapp2.2/Delete.runtimeconfig.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/bin/Debug/netcoreapp2.2/Delete.runtimeconfig.dev.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/bin/Debug/netcoreapp2.2/Delete.dll
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/bin/Debug/netcoreapp2.2/Delete.pdb
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/obj/Debug/netcoreapp2.2/Delete.dll
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Delete/obj/Debug/netcoreapp2.2/Delete.pdb

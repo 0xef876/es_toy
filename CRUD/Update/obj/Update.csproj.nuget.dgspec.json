@@ -39,11 +39,19 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "ElasticSearch": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Nest": {
+              "target": "Package",
+              "version": "[7.17.5, )"
             }
           },
           "imports": [

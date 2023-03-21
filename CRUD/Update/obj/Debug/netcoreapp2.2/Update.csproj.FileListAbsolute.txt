@@ -1,0 +1,11 @@
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/bin/Debug/netcoreapp2.2/Update.deps.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/bin/Debug/netcoreapp2.2/Update.runtimeconfig.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/bin/Debug/netcoreapp2.2/Update.runtimeconfig.dev.json
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/bin/Debug/netcoreapp2.2/Update.dll
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/bin/Debug/netcoreapp2.2/Update.pdb
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/obj/Debug/netcoreapp2.2/Update.csprojAssemblyReference.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/obj/Debug/netcoreapp2.2/Update.csproj.CoreCompileInputs.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/obj/Debug/netcoreapp2.2/Update.AssemblyInfoInputs.cache
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/obj/Debug/netcoreapp2.2/Update.AssemblyInfo.cs
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/obj/Debug/netcoreapp2.2/Update.dll
+/Users/kitty/Desktop/ICT/pratice/es_toy/CRUD/Update/obj/Debug/netcoreapp2.2/Update.pdb
