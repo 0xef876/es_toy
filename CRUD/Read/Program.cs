@@ -25,7 +25,7 @@ namespace Read
                 .Query(q => q
                     .Match(m => m
                         .Field(f => f.company)
-                        .Query("Kitty")
+                        .Query("Kitty2")
                     )
                 )
             );
